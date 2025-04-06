@@ -1,18 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I'm Weijie Cai, you can call me Paul!
 
-<!--
-**Pau1vvcai/Pau1vvcai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software engineering undergraduate student (currently Year 2) with a strong interest in remote-first development, open-source tools, and AI engineering.
 
-Here are some ideas to get you started:
+### 💻 What I do
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🧱 Build web applications with **React / Next.js / Node.js**
+- 🛠️ Develop automation tools and backend APIs using **Python / FastAPI**
+- 🤖 Currently exploring **LLMs** and their application in real-world tools
+- 🌱 Always learning and building
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pau1vvcai)](https://github.com/anuraghazra/github-readme-stats)
+### 🔭 Projects I'm working on
+
+- `notion-web-sync` – Sync and publish Notion pages as a clean website
+- `resume-as-code` – JSON-based online resume builder with export options
+- `llm-utils` – Lightweight Python toolkit for fine-tuning and evaluating small LLMs
+
+### 📫 Contact
+
+- Email: [pau1vvcai@gmail.com]
+- LinkedIn: [www.linkedin.com/in/weijie-cai-a538b828a/]
+
+<!-- Optional: GitHub Stats badge -->
