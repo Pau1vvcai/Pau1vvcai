@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Weijie Cai, you can call me Paul!
+# 👋 Hi!
 
-I'm a software engineering undergraduate student (currently Year 2) with a strong interest in remote-first development, open-source tools, and AI engineering.
+I'm Weijie Cai, you can call me Paul! I'm a software engineering undergraduate student (currently Year 2) with a strong interest in remote-first development, open-source tools, and AI engineering.
 
 ### 💻 What I do
 
@@ -21,3 +21,4 @@ I'm a software engineering undergraduate student (currently Year 2) with a stron
 - LinkedIn: [www.linkedin.com/in/weijie-cai-a538b828a/]
 
 <!-- Optional: GitHub Stats badge -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pau1vvcai)](https://github.com/anuraghazra/github-readme-stats)
