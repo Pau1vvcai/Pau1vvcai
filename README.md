@@ -11,9 +11,11 @@ I'm Weijie Cai, you can call me Paul! I'm a software engineering undergraduate s
 
 ### 🔭 Projects I'm working on
 
+- `Chat_to_Chat` - A simple desktop real-time chat application built with **Python**
 - `notion-web-sync` – Sync and publish Notion pages as a clean website
 - `resume-as-code` – JSON-based online resume builder with export options
 - `llm-utils` – Lightweight Python toolkit for fine-tuning and evaluating small LLMs
+
 
 ### 📫 Contact
 
