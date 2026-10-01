@@ -1,6 +1,6 @@
 # 👋 Hi!
 
-I'm Weijie Cai (Paul) — a software engineering undergraduate passionate about Full stack software and LLM.
+I'm Weijie Cai (Paul) — a software engineering graduated from University of Glasgow, passionate about Full stack software and LLM.
 Currently, I’m diving deep into decentralized technologies while continuing to build open-source tools and Beijing based applications.
 
 ### 💻 What I do
