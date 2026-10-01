@@ -1,19 +1,18 @@
 # 👋 Hi!
 
-I'm Weijie Cai (Paul) — a software engineering undergraduate passionate about Web3, blockchain, and AI engineering.
-Currently, I’m diving deep into decentralized technologies while continuing to build open-source tools and remote-first applications.
+I'm Weijie Cai (Paul) — a software engineering undergraduate passionate about Full stack software and LLM.
+Currently, I’m diving deep into decentralized technologies while continuing to build open-source tools and Beijing based applications.
 
 ### 💻 What I do
 
-- 🧱 Build web applications with **React / Next.js / Node.js**
-- 🛠️ Explore Web3 & blockchain development (smart contracts, dApps, tokenomics)
+- 🧱 Build web applications with **Django**
 - 🤖 Currently exploring **LLMs** and their application in real-world tools
 - 🌱 Always learning and building
 
 ### 🔭 Projects I'm working on
 
-- `dapp-experiments` - Prototyping decentralized apps and smart contracts
-- `anitafilm` – A personal artist page to show filmwork.
+- `Dependency Time Machine` – A tool for Developer which aim to fix the develop environment automatically.(build for hackathon)
+- `lotuslovesinging` – A personal artist page for lotus to represent his stories.
 
 
 ### 📫 Contact
